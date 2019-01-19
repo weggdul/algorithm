@@ -6,3 +6,4 @@
 2. [11650번 좌표 정렬하기](https://jayden-lee.github.io/post/algorithm/baekjoon-algorithm-problem-11650/)
 3. [11052번 카드 구매하기](https://jayden-lee.github.io/post/algorithm/baekjoon-algorithm-problem-11052/)
 4. [1152번 단어의 개수](https://jayden-lee.github.io/post/algorithm/baekjoon-algorithm-problem-1152/)
+5. [1463번 1로 만들기](https://jayden-lee.github.io/post/algorithm/baekjoon-algorithm-problem-1463/)
