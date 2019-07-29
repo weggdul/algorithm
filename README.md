@@ -18,3 +18,6 @@
 
 ### 정렬
 - [좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+
+### 배열
+- [나머지](https://www.acmicpc.net/problem/3052)
