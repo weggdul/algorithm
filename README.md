@@ -1,7 +1,6 @@
-# Algorithm
+# :star: Algorithm
 > Baekjoon Online Judge 알고리즘 문제 풀이 저장소입니다. 각 문제에 대한 제출 코드는 패키지로 
 구분합니다.
-:star:
 
 ## Contents
  
