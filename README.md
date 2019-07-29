@@ -1,9 +1,18 @@
 # algorithm
-> Baekjoon Online Judge 알고리즘 문제 풀이 저장소입니다.
+> Baekjoon Online Judge 알고리즘 문제 풀이 저장소입니다. 각 문제에 대한 제출 코드는 패키지로 
+구분합니다.
 
 ## Contents
-1. [11403번 경로 찾기](https://jayden-lee.github.io/post/algorithm/baekjoon-algorithm-problem-11403/)
-2. [11650번 좌표 정렬하기](https://jayden-lee.github.io/post/algorithm/baekjoon-algorithm-problem-11650/)
-3. [11052번 카드 구매하기](https://jayden-lee.github.io/post/algorithm/baekjoon-algorithm-problem-11052/)
-4. [1152번 단어의 개수](https://jayden-lee.github.io/post/algorithm/baekjoon-algorithm-problem-1152/)
-5. [1463번 1로 만들기](https://jayden-lee.github.io/post/algorithm/baekjoon-algorithm-problem-1463/)
+ 
+### DFS
+- [경로 찾기](https://www.acmicpc.net/problem/11403)
+
+### 문자열 처리
+- [단어의 개수](https://www.acmicpc.net/problem/1152)
+
+### DP
+- [1로 만들기](https://www.acmicpc.net/problem/1463)
+- [카드 구매하기](https://www.acmicpc.net/problem/11052)
+
+### 정렬
+- [좌표 정렬하기](https://www.acmicpc.net/problem/11650)
