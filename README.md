@@ -1,6 +1,7 @@
-# algorithm
+# Algorithm
 > Baekjoon Online Judge 알고리즘 문제 풀이 저장소입니다. 각 문제에 대한 제출 코드는 패키지로 
 구분합니다.
+:star:
 
 ## Contents
  
@@ -9,6 +10,7 @@
 
 ### 문자열 처리
 - [단어의 개수](https://www.acmicpc.net/problem/1152)
+- [그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 
 ### DP
 - [1로 만들기](https://www.acmicpc.net/problem/1463)
