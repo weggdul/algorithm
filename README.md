@@ -17,6 +17,7 @@
 
 ### 정렬
 - [좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+- [보물](https://www.acmicpc.net/problem/1026)
 
 ### 배열
 - [나머지](https://www.acmicpc.net/problem/3052)
