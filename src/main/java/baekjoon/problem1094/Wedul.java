@@ -1,4 +1,4 @@
-package 수학.막대기;
+package baekjoon.problem1094;
 
 import java.util.Scanner;
 import java.util.Stack;

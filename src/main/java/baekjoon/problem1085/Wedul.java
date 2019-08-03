@@ -1,4 +1,4 @@
-package 수학.직사각형에서탈출;
+package baekjoon.problem1085;
 
 import java.util.ArrayList;
 import java.util.List;

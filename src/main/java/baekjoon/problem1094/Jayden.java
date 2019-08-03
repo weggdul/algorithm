@@ -1,3 +1,5 @@
+package baekjoon.problem1094;
+
 import java.util.Scanner;
 
 /**
@@ -6,7 +8,7 @@ import java.util.Scanner;
  *
  * @author jayden-lee
  */
-public class Main {
+public class Jayden {
 
     private static int BAR_LENGTH = 64;
 
